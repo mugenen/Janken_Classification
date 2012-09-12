@@ -24,9 +24,9 @@ Label and Features
 -------
 A label number means the hand of an instance.
 
-+   0:Rock (グー)
-+   1:Scissors (チョキ)
-+   2:Paper (パー)
++   0:Rock
++   1:Scissors
++   2:Paper
 
 
 n-th hand feature number is
